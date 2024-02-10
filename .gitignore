@@ -6,6 +6,7 @@ node_modules/
 
 # Ignore environment variables file
 .env
+docker-compose.yml
 
 # Ignore build output
 dist/
